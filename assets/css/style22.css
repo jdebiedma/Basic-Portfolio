@@ -304,6 +304,7 @@ a:hover {
 #none {
 
 	color: grey;
+	
 }
 
 #none:visited {
@@ -311,6 +312,10 @@ a:hover {
 	color: grey;
 }
 
+#pushmedown {
+
+	padding-top: 10px;
+}
 
 
 
